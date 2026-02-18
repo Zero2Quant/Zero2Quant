@@ -1,62 +1,53 @@
-# Jiang Jingzhe
+# Zero2Quant
 
-Founder of **Zero2Quant**  
-AI × Quantitative Systems × Financial Engineering  
-
----
-
-## About
-
-I build systems.
-
-My work sits at the intersection of artificial intelligence, quantitative trading, and execution infrastructure.  
-I focus on designing data-driven trading architectures, automation frameworks, and scalable education platforms for global Chinese learners.
-
-I believe markets reward structure, not emotion.  
-Code is the language of modern finance.
+AI × Quantitative Trading × Financial Engineering
 
 ---
 
-## Philosophy
+## About Zero2Quant
 
-- Systems over speculation  
-- Probability over prediction  
-- Engineering over intuition  
-- Long-term edge over short-term noise  
+Zero2Quant is a system-oriented quantitative research initiative focused on building structured trading architectures, automation frameworks, and scalable financial intelligence.
 
----
+We do not chase market noise.  
+We design probabilistic systems.
 
-## Focus Areas
-
-- Quantitative trading system architecture  
-- Strategy research & backtesting frameworks  
-- AI applications in financial markets  
-- Execution automation & infrastructure  
-- Scalable knowledge platforms  
+Our mission is to bridge artificial intelligence, quantitative strategy research, and execution infrastructure into cohesive, deployable trading ecosystems.
 
 ---
 
-## Selected Work
+## Core Direction
 
-**Zero2Quant**  
-Building structured quantitative education and system-oriented trading methodology.
-
-**MacOS Developer Utilities**  
-Command-line productivity tools for modern builders.
-
-**Minecraft Fabric Mod Experiments**  
-Exploring event-driven architecture through game engine development.
+- Quantitative strategy research
+- Backtesting & simulation frameworks
+- AI-driven financial modeling
+- Execution automation systems
+- Quantitative education for global Chinese learners
 
 ---
 
-## Connect
+## Principles
 
-🌐 https://www.zero2quant.com  
-📺 YouTube: Zero2QuantOfficial
+- Structure over randomness  
+- Edge through engineering  
+- Discipline through automation  
+- Long-term compounding through system design  
 
-Email: contact@jiangjingzhe.com
-
-Wechat: jiangjingzhe_2004
 ---
 
-> The future of finance belongs to systematic thinkers.
+## What We Build
+
+- Research-grade quant frameworks  
+- Modular trading architectures  
+- Data-driven execution pipelines  
+- Educational infrastructure for systematic investors  
+
+---
+
+## Vision
+
+To empower systematic thinkers to build intelligent financial machines.
+
+---
+
+🌐 Website: https://www.zero2quant.com  
+📺 YouTube: Zero2Quant
